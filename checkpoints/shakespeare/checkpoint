@@ -1,0 +1,5 @@
+model_checkpoint_path: "shakespeare-2499"
+all_model_checkpoint_paths: "shakespeare-0"
+all_model_checkpoint_paths: "shakespeare-1000"
+all_model_checkpoint_paths: "shakespeare-2000"
+all_model_checkpoint_paths: "shakespeare-2499"
